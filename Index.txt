@@ -1,3 +1,17 @@
 Fisrt change in Master
 
 Hey! Hello world, how are you?
+
+----------------------------------------------------
+second change in master
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	
+</body>
+</html>
